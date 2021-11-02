@@ -47,7 +47,3 @@ jobs:
           allow_override: true
           files: >
             ./dist/hysteria-notun-linux-amd64
-            ./dist/hysteria-notun-linux-386
-            ./dist/hysteria-notun-linux-arm
-            ./dist/hysteria-notun-linux-arm64
-            ./dist/hysteria-notun-linux-mipsle
