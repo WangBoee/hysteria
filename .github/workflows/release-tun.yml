@@ -47,12 +47,3 @@ jobs:
           allow_override: true
           files: >
             ./dist/hysteria-linux-amd64
-            ./dist/hysteria-linux-386
-            ./dist/hysteria-linux-arm-5
-            ./dist/hysteria-linux-arm-7
-            ./dist/hysteria-linux-arm64
-            ./dist/hysteria-linux-mipsle
-            ./dist/hysteria-darwin-10.12-amd64
-            ./dist/hysteria-darwin-10.12-arm64
-            ./dist/hysteria-windows-6.0-amd64.exe
-            ./dist/hysteria-windows-6.0-386.exe
